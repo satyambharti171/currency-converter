@@ -6,7 +6,7 @@ rates = {
         "symbol" : '$'
     },
     "inr" : {
-        "value" : 65.44,
+        "value" : 71.14,
         "symbol" : '₹'
     },
     "cad" : {
